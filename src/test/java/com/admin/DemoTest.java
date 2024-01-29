@@ -25,6 +25,7 @@ public class DemoTest {
 	public void demo4Test()
 	{
 		System.out.println("---d4--");
+		System.out.println("--- check-----");
 	}
 
 
